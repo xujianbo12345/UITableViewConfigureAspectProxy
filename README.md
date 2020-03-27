@@ -1,0 +1,2 @@
+# UITableViewConfigureAspectProxy
+使用Model处理UITableViewDataSource、UITableViewDelegate，方便于如果UITableView每个Cell都是不一样的样式，并且有不一样的处理，不需要编写繁琐并且不易阅读的if else，而且每一个Cell对应一个Model，你可以在Block中单独处理，增加代码阅读行以及保证代码长期可维护的处理。
